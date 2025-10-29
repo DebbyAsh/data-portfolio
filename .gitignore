@@ -1,0 +1,7 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node or Python caches (if you add tooling later)
+node_modules/
+__pycache__/
